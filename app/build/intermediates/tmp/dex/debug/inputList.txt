@@ -1,0 +1,9 @@
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/classes/debug
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-utils-a7c60c06f01340ee9480ffc561f408cb76a027e2.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-99750d21b2aaef670430c4d4034e0632bc08b107.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-e90d7f0d5e791d6e8ff122709680800cdc26b0fe.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-6e8abe63f8c5843797542b6b9aa92bddfa90a464.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-422a55730d18998d3ce70c7222c87fcbd7e07384.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/scribe-f77d6f29772e44b909efb318f351f43ed5992335.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/androidjhlabs-f1fd75ba6a262702859df2554424573e395d643d.jar
+/Users/Crystal/Downloads/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-faa5fdaf1c1c2036996cc14bb0c976419bdbdc60.jar
